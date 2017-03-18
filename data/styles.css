@@ -1,0 +1,414 @@
+﻿.ax_default {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_1 {
+}
+._标题1 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._标题2 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._标题3 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._标题4 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._标题5 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._标题6 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:13px;
+  text-align:left;
+}
+._文本 {
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+._文本框 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+._流程形状 {
+}
+.arrow {
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.sticky_4 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+._水平线 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+}
+._连接线 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+}
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.box_2 {
+}
+.image {
+  color:#000000;
+}
+.shape {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.icon {
+}
+.icon_lighttheme_default {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+}
+.icon_lighttheme_primary {
+}
+.icon_lighttheme_disabled {
+}
+.icon_lighttheme_pressdown {
+}
+.box_21 {
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+}
+.box_3 {
+}
+._文本段落 {
+  text-align:left;
+}
+._形状 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:normal;
+  font-style:normal;
+}
+._形状1 {
+}
+.image1 {
+}
+.shape1 {
+  font-family:'Helvetica';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.label1 {
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.paragraph1 {
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.label2 {
+  font-size:14px;
+  text-align:left;
+}
+.iosui_leftlable_light {
+  font-size:15px;
+  color:#288BFE;
+  text-align:left;
+}
+.iosui_leftlable_icon {
+  font-size:17px;
+  color:#288BFE;
+  text-align:left;
+}
+.iosui_rightlable_light {
+  font-size:17px;
+  color:#288BFE;
+  text-align:right;
+}
+.iosui_backicon {
+}
+.iosui_nav_title_light {
+  font-size:17px;
+}
+.iosui_nav_loadingline {
+}
+.navigationbar_blue_default {
+  color:#288BFE;
+}
+.navigationbar_blue_primary {
+  color:#FFFFFF;
+}
+.cell_default {
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+.cell_default_check {
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+.cell_default_icon {
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+.cell_gery {
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+.font_boarder_blue {
+  font-size:14px;
+  color:#288BFE;
+}
+.box_31 {
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+}
+.ellipse {
+}
+.fontawesome {
+  font-family:'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+  text-align:center;
+}
+.basicbutton {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.imagecontainer-color {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#EDF0F2;
+}
+.basicbutton-outline {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:16px;
+  color:#51ADEF;
+  text-align:center;
+}
+.san_fran_reg_14px {
+  font-family:'San Francisco Text';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#8899A6;
+}
+.san_fran_reg_12px {
+  font-family:'San Francisco Text';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#8899A6;
+}
+.san_fran_reg_14px-white {
+  font-family:'San Francisco Text';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+.san_fran_reg_15px {
+  font-family:'San Francisco Text';
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  color:#8899A6;
+}
+.san_fran_reg_15px-white {
+  font-family:'San Francisco Text';
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  color:#FFFFFF;
+}
+.san_fran_light_18px {
+  font-family:'San Francisco Text';
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+  color:#8899A6;
+}
+.san_fran_reg_20px {
+  font-family:'San Francisco Text';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#8899A6;
+  line-height:20px;
+}
+.image-placeholder-big {
+  font-family:'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  font-size:48px;
+  color:rgba(245, 248, 250, 0.298039215686275);
+  line-height:48px;
+}
+.image-placeholder-small {
+  font-family:'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  color:rgba(245, 248, 250, 0.298039215686275);
+  line-height:48px;
+}
+.icons_36_grey {
+  font-family:'Material Icons';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+  color:#4C4C4C;
+  text-align:center;
+  line-height:36px;
+}
+._文本段落1 {
+  text-align:left;
+}
+._一级标题 {
+  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._文本链接1 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+._形状2 {
+}
+._垂直线 {
+}
+._图片 {
+  color:#000000;
+}
+._水平线1 {
+}
+._文本框1 {
+  color:#000000;
+  text-align:left;
+}
+._表格 {
+}
+._单元格 {
+}
+._提交按钮 {
+  color:#000000;
+}
+._多行文本框 {
+  color:#000000;
+  text-align:left;
+}
+.box_22 {
+}
